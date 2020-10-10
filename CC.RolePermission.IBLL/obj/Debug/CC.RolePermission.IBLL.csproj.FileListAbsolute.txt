@@ -1,0 +1,13 @@
+D:\CC.RolePermission\CC.RolePermission.IBLL\bin\Debug\CC.RolePermission.IBLL.dll
+D:\CC.RolePermission\CC.RolePermission.IBLL\bin\Debug\CC.RolePermission.IBLL.pdb
+D:\CC.RolePermission\CC.RolePermission.IBLL\bin\Debug\CC.RolePermission.Model.dll
+D:\CC.RolePermission\CC.RolePermission.IBLL\bin\Debug\EntityFramework.dll
+D:\CC.RolePermission\CC.RolePermission.IBLL\bin\Debug\CC.RolePermission.Model.pdb
+D:\CC.RolePermission\CC.RolePermission.IBLL\bin\Debug\CC.RolePermission.Model.dll.config
+D:\CC.RolePermission\CC.RolePermission.IBLL\bin\Debug\EntityFramework.xml
+D:\CC.RolePermission\CC.RolePermission.IBLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\CC.RolePermission\CC.RolePermission.IBLL\obj\Debug\CC.RolePermission.IBLL.csprojAssemblyReference.cache
+D:\CC.RolePermission\CC.RolePermission.IBLL\obj\Debug\CC.RolePermission.IBLL.csproj.CoreCompileInputs.cache
+D:\CC.RolePermission\CC.RolePermission.IBLL\obj\Debug\CC.RolePermission.IBLL.csproj.CopyComplete
+D:\CC.RolePermission\CC.RolePermission.IBLL\obj\Debug\CC.RolePermission.IBLL.dll
+D:\CC.RolePermission\CC.RolePermission.IBLL\obj\Debug\CC.RolePermission.IBLL.pdb

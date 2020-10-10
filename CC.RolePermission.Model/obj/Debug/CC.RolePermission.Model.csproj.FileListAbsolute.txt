@@ -1,0 +1,14 @@
+D:\CC.RolePermission\CC.RolePermission.Model\bin\Debug\CC.RolePermission.Model.dll.config
+D:\CC.RolePermission\CC.RolePermission.Model\bin\Debug\CC.RolePermission.Model.dll
+D:\CC.RolePermission\CC.RolePermission.Model\bin\Debug\CC.RolePermission.Model.pdb
+D:\CC.RolePermission\CC.RolePermission.Model\bin\Debug\EntityFramework.dll
+D:\CC.RolePermission\CC.RolePermission.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\CC.RolePermission\CC.RolePermission.Model\bin\Debug\EntityFramework.xml
+D:\CC.RolePermission\CC.RolePermission.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\CC.RolePermission\CC.RolePermission.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\CC.RolePermission\CC.RolePermission.Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\CC.RolePermission\CC.RolePermission.Model\obj\Debug\CC.RolePermission.Model.csprojAssemblyReference.cache
+D:\CC.RolePermission\CC.RolePermission.Model\obj\Debug\CC.RolePermission.Model.csproj.CoreCompileInputs.cache
+D:\CC.RolePermission\CC.RolePermission.Model\obj\Debug\CC.RolePermission.Model.csproj.CopyComplete
+D:\CC.RolePermission\CC.RolePermission.Model\obj\Debug\CC.RolePermission.Model.dll
+D:\CC.RolePermission\CC.RolePermission.Model\obj\Debug\CC.RolePermission.Model.pdb

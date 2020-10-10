@@ -1,0 +1,13 @@
+D:\CC.RolePermission\CC.RolePermission.IDAL\bin\Debug\CC.RolePermission.IDAL.dll
+D:\CC.RolePermission\CC.RolePermission.IDAL\bin\Debug\CC.RolePermission.IDAL.pdb
+D:\CC.RolePermission\CC.RolePermission.IDAL\bin\Debug\CC.RolePermission.Model.dll
+D:\CC.RolePermission\CC.RolePermission.IDAL\bin\Debug\EntityFramework.dll
+D:\CC.RolePermission\CC.RolePermission.IDAL\bin\Debug\CC.RolePermission.Model.pdb
+D:\CC.RolePermission\CC.RolePermission.IDAL\bin\Debug\CC.RolePermission.Model.dll.config
+D:\CC.RolePermission\CC.RolePermission.IDAL\bin\Debug\EntityFramework.xml
+D:\CC.RolePermission\CC.RolePermission.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\CC.RolePermission\CC.RolePermission.IDAL\obj\Debug\CC.RolePermission.IDAL.csprojAssemblyReference.cache
+D:\CC.RolePermission\CC.RolePermission.IDAL\obj\Debug\CC.RolePermission.IDAL.csproj.CoreCompileInputs.cache
+D:\CC.RolePermission\CC.RolePermission.IDAL\obj\Debug\CC.RolePermission.IDAL.csproj.CopyComplete
+D:\CC.RolePermission\CC.RolePermission.IDAL\obj\Debug\CC.RolePermission.IDAL.dll
+D:\CC.RolePermission\CC.RolePermission.IDAL\obj\Debug\CC.RolePermission.IDAL.pdb

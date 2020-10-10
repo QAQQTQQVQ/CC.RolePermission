@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{63A0AB06-B72A-4429-B6F0-898F2ED3D21C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CC.RolePermission.BLL</RootNamespace>
+    <AssemblyName>CC.RolePermission.BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseBll.cs" />
+    <Compile Include="Bll.cs">
+      <DependentUpon>Bll.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="OrderInfoBll.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserInfoBll.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CC.RolePermission.DALFactory\CC.RolePermission.DALFactory.csproj">
+      <Project>{e78aad1c-bf69-480b-baff-20330070db7e}</Project>
+      <Name>CC.RolePermission.DALFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CC.RolePermission.EFDAL\CC.RolePermission.EFDAL.csproj">
+      <Project>{412ba584-a65d-46d2-b3b2-5ffb43b40638}</Project>
+      <Name>CC.RolePermission.EFDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CC.RolePermission.IBLL\CC.RolePermission.IBLL.csproj">
+      <Project>{b7e56fbc-2194-4b2e-92c1-c2ad6602e2c0}</Project>
+      <Name>CC.RolePermission.IBLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CC.RolePermission.IDAL\CC.RolePermission.IDAL.csproj">
+      <Project>{2f63edfa-74fd-4ef3-8c56-88d44eacb96e}</Project>
+      <Name>CC.RolePermission.IDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CC.RolePermission.Model\CC.RolePermission.Model.csproj">
+      <Project>{3e581839-7f50-4ea7-84f7-096e4f821f5f}</Project>
+      <Name>CC.RolePermission.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Bll.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Bll.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

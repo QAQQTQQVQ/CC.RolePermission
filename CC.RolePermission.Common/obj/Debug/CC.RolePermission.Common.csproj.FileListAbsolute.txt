@@ -1,0 +1,9 @@
+D:\CC.RolePermission\CC.RolePermission.Common\bin\Debug\CC.RolePermission.Common.dll
+D:\CC.RolePermission\CC.RolePermission.Common\bin\Debug\CC.RolePermission.Common.pdb
+D:\CC.RolePermission\CC.RolePermission.Common\obj\Debug\CC.RolePermission.Common.csproj.CoreCompileInputs.cache
+D:\CC.RolePermission\CC.RolePermission.Common\obj\Debug\CC.RolePermission.Common.dll
+D:\CC.RolePermission\CC.RolePermission.Common\obj\Debug\CC.RolePermission.Common.pdb
+D:\CC.RolePermission\CC.RolePermission.Common\obj\Debug\CC.RolePermission.Common.csprojAssemblyReference.cache
+D:\CC.RolePermission\CC.RolePermission.Common\bin\Debug\log4net.dll
+D:\CC.RolePermission\CC.RolePermission.Common\bin\Debug\log4net.xml
+D:\CC.RolePermission\CC.RolePermission.Common\obj\Debug\CC.RolePermission.Common.csproj.CopyComplete

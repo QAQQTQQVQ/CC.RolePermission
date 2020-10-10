@@ -1,0 +1,17 @@
+D:\CC.RolePermission\CC.RolePermission.EFDAL\bin\Debug\CC.RolePermission.EFDAL.dll.config
+D:\CC.RolePermission\CC.RolePermission.EFDAL\bin\Debug\CC.RolePermission.EFDAL.dll
+D:\CC.RolePermission\CC.RolePermission.EFDAL\bin\Debug\CC.RolePermission.EFDAL.pdb
+D:\CC.RolePermission\CC.RolePermission.EFDAL\bin\Debug\CC.RolePermission.IDAL.dll
+D:\CC.RolePermission\CC.RolePermission.EFDAL\bin\Debug\CC.RolePermission.Model.dll
+D:\CC.RolePermission\CC.RolePermission.EFDAL\bin\Debug\EntityFramework.dll
+D:\CC.RolePermission\CC.RolePermission.EFDAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\CC.RolePermission\CC.RolePermission.EFDAL\bin\Debug\CC.RolePermission.IDAL.pdb
+D:\CC.RolePermission\CC.RolePermission.EFDAL\bin\Debug\CC.RolePermission.Model.pdb
+D:\CC.RolePermission\CC.RolePermission.EFDAL\bin\Debug\CC.RolePermission.Model.dll.config
+D:\CC.RolePermission\CC.RolePermission.EFDAL\bin\Debug\EntityFramework.xml
+D:\CC.RolePermission\CC.RolePermission.EFDAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\CC.RolePermission\CC.RolePermission.EFDAL\obj\Debug\CC.RolePermission.EFDAL.csprojAssemblyReference.cache
+D:\CC.RolePermission\CC.RolePermission.EFDAL\obj\Debug\CC.RolePermission.EFDAL.csproj.CoreCompileInputs.cache
+D:\CC.RolePermission\CC.RolePermission.EFDAL\obj\Debug\CC.RolePermission.EFDAL.csproj.CopyComplete
+D:\CC.RolePermission\CC.RolePermission.EFDAL\obj\Debug\CC.RolePermission.EFDAL.dll
+D:\CC.RolePermission\CC.RolePermission.EFDAL\obj\Debug\CC.RolePermission.EFDAL.pdb
